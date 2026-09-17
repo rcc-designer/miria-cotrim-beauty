@@ -1,0 +1,13 @@
+{
+  "name": "miria-cotrim-beauty",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node prepare.mjs",
+    "check": "node --check dist/app.js && node --check dist/siteContent.js && node --check dist/uiContent.js && node verify_static.mjs"
+  }
+}

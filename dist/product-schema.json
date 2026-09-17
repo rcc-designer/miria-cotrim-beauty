@@ -1,0 +1,1 @@
+{"description":"Future product record; no real products or prices configured","fields":{"id":"string","name":{"en":"string","pt":"string"},"description":{"en":"string","pt":"string"},"image":"URL or local image path","price":null,"currency":null,"stock":null,"variants":[],"checkoutEnabled":false}}
