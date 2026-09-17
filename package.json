@@ -1,1 +1,0 @@
-{"name":"miria-cotrim-concept-preview","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node prepare.mjs","check":"node --check dist/app.js && node --check dist/siteContent.js"}}

@@ -1,9 +1,0 @@
-contact-sheet-*.jpg
-.sites-runtime/
-*.zip
-__pycache__/
-.tools/
-video-source/
-*.html
-!dist/**/*.html
-*.tar.gz
